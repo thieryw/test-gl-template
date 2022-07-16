@@ -60,6 +60,9 @@ export const {
 							cultivated or me. Nor brought one invited she 
 							produce her.`,
 						"articleButtonLabel": "Article button label",
+						"article2Title": "Article 2 Title",
+						"article2Body": `This is an **example** of how to create an article with an mp4 video along side it !`,
+						"article2ButtonLabel": "Article 2 button label",
 						"card1Title": "Card title 1",
 						"card2Title": "Card title 2",
 						"card3Title": "Card title 3",
@@ -143,6 +146,9 @@ export const {
 							Prenaient distribua ii en eperonnes enfantent 
 							entourage cotillons.`,
 						"articleButtonLabel": "Label du bouton",
+						"article2Title": "Titre de l'article 2",
+						"article2Body": `Ceci est un **exemple** de comment on créer un article avec une vidéo mp4 a coté !`,
+						"article2ButtonLabel": "Label du bouton 2",
 						"card1Title": "Titre de la carte 1",
 						"card2Title": "Titre de la carte 2",
 						"card3Title": "Titre de la carte 3",
