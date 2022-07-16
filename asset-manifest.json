@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/test-gl-template/static/js/main.b5503a51.js",
+    "main.js": "/test-gl-template/static/js/main.5cf92476.js",
     "static/media/sspcloud.mp4": "/test-gl-template/static/media/sspcloud.a2420ffc6df7cdd8c262.mp4",
     "static/media/home-article.png": "/test-gl-template/static/media/home-article.64a2f430b7a77662910e.png",
     "static/media/article-page-example.png": "/test-gl-template/static/media/article-page-example.70d6bd57ede0ada106fa.png",
@@ -10,9 +10,9 @@
     "static/media/data-visualisation.png": "/test-gl-template/static/media/data-visualisation.c147fb3b112f51f096a2.png",
     "static/media/kubernetes.png": "/test-gl-template/static/media/kubernetes.52ea2430dfac2c2b029c.png",
     "index.html": "/test-gl-template/index.html",
-    "main.b5503a51.js.map": "/test-gl-template/static/js/main.b5503a51.js.map"
+    "main.5cf92476.js.map": "/test-gl-template/static/js/main.5cf92476.js.map"
   },
   "entrypoints": [
-    "static/js/main.b5503a51.js"
+    "static/js/main.5cf92476.js"
   ]
 }
