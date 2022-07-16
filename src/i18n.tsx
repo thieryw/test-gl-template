@@ -23,6 +23,7 @@ export const {
 } = createI18nApi<
     | typeof import ("pages/Home").i18n
     | typeof import ("pages/PageExample").i18n
+		| typeof import ("pages/Page2Example").i18n
     | typeof import ("App/Header").i18n
 		| typeof import ("App/Footer").i18n
 		| typeof import ("pages/FourOFour").i18n
@@ -111,6 +112,9 @@ export const {
 						"checkListElementDescription4": "Am finished rejoiced drawings so he elegance. Set lose dear upon had two its what seen.",
 						"checkListElementDescription5": "Am finished rejoiced drawings so he elegance. Set lose dear upon had two its what seen.",
 						"checkListElementDescription6": "Am finished rejoiced drawings so he elegance. Set lose dear upon had two its what seen."
+					},
+					"Page2Example": {
+						"Page2Title": "Page 2 Title"
 					}
         },
 				/* spell-checker: disable */
@@ -200,6 +204,9 @@ export const {
 						"checkListElementDescription4": "Il remarquait et en survivants eclaireurs legerement qu. Animaux nos humains fer fut ramassa encourt.",
 						"checkListElementDescription5": "Il remarquait et en survivants eclaireurs legerement qu. Animaux nos humains fer fut ramassa encourt.",
 						"checkListElementDescription6": "Il remarquait et en survivants eclaireurs legerement qu. Animaux nos humains fer fut ramassa encourt.",
+					},
+					"Page2Example": {
+						"Page2Title": "Titre de la page 2"
 					}
 
 				}
