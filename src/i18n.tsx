@@ -38,13 +38,15 @@ export const {
 						"headerTitle": "Title",
 						"link1label": "Example page",
 						"link2label": "Link 2",
-						"link3label": "Link 3"
+						"link3label": "Link 3",
+						"linkPage2Label": "Link page 2"
 					},
 					"Footer": {
 						"license": "License M.I.T",
 						"link1label": "Example page",
 						"link2label": "Link 2",
-						"link3label": "Link 3"
+						"link3label": "Link 3",
+						"linkPage2Label": "Link page 2"
 					},
 					"Home": {
 						"heroTitle": "Hero title",
@@ -126,13 +128,15 @@ export const {
 						"headerTitle": "Titre",
 						"link1label": "Exemple de page",
 						"link2label": "Lien 2",
-						"link3label": "Lien 3"
+						"link3label": "Lien 3",
+						"linkPage2Label": "Lien page 2"
 					},
 					"Footer": {
 						"license": "License M.I.T",
 						"link1label": "Exemple de page",
 						"link2label": "Lien 2",
-						"link3label": "Lien 3"
+						"link3label": "Lien 3",
+						"linkPage2Label": "Lien page 2"
 					},
 					"Home": {
 						"heroTitle": "Titre du Hero",

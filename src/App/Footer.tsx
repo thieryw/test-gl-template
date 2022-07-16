@@ -16,6 +16,10 @@ export const Footer = memo(() => {
 				...routes.pageExample().link
 			},
 			{
+				"label": t("linkPage2Label"),
+				...routes.page2Example().link
+			},
+			{
 				"label": t("link2label"),
 				"href": "https://example.com",
 			},
@@ -30,6 +34,7 @@ export const Footer = memo(() => {
 export const { i18n } = declareComponentKeys<
 	| "license"
 	| "link1label"
+	| "linkPage2Label"
 	| "link2label"
 	| "link3label"
 >()({ Footer });

@@ -23,6 +23,10 @@ export const Header = memo(() => {
 				...routes.pageExample().link
 			},
 			{
+				"label": t("linkPage2Label"),
+				...routes.page2Example().link
+			},
+			{
 				"label": t("link2label"),
 				"href": "https://example.com",
 			},
@@ -48,6 +52,7 @@ export const Header = memo(() => {
 export const { i18n } = declareComponentKeys<
 	| "headerTitle"
 	| "link1label"
+	| "linkPage2Label"
 	| "link2label"
 	| "link3label"
 >()({ Header });

@@ -6,6 +6,7 @@ import { Home } from "../pages/Home";
 import { PageExample } from "../pages/PageExample";
 import { FourOhFour } from "../pages/FourOFour";
 import { ThemeProvider } from "../theme";
+import { Page2Example } from "../pages/Page2Example";
 
 export function App() {
 	const route = useRoute();
@@ -23,7 +24,8 @@ export function App() {
 						switch(route.name){
 							case "home": return <Home />;
 							case "pageExample": return <PageExample />;
-							default : return <FourOhFour />;
+							case "page2Example": return <Page2Example />;
+							default: return <FourOhFour />;
 						}
 					})()
 				}
